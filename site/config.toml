@@ -1,7 +1,7 @@
 baseurl = "."
 languageCode = "en-us"
-title = "Hyde"
+title = "From Roofer to Developer"
 theme = "hyde"
 
 [params]
-  themeColor = "theme-base-09"
+  themeColor = "theme-base-10"
